@@ -6,74 +6,44 @@
 
 :root {
   font-size: 10px;
-  --background-color: #edf7ff;
-  --accent-color: #8a9af1;
-  --title-color: #0a2ff1;
-  --text-color: #04146c;
-  font-family: "Asap", sans-serif;
+  --primary-color: black;
+  --secondary-color: white;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
 }
 
-body {
-  background-color: var(--background-color);
-  border-top: 1rem solid var(--accent-color);
+.bkg-black {
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
 }
 
-h1,
-h3 {
-  color: var(--title-color);
-  font-family: "MuseoModerno", cursive;
+.fecha {
+  font-weight: 900;
+  font-size: 6.6rem;
+  padding: 6rem 0rem;
 }
 
-main {
-  margin: 8rem 12rem;
+.black {
+  font-size: 19.73rem;
 }
 
-.title {
-  font-size: 11.73rem;
+.friday {
+  font-size: 21.73rem;
+  padding: 12rem 0rem;
 }
 
-.subtitle {
-  font-size: 5.2rem;
-  color: var(--title-color);
-  font-weight: 300;
-}
-
-article p,
-strong,
-li {
-  color: var(--text-color);
-}
-
-article {
-  margin: 8rem 0rem;
-}
-
-article p {
-  font-size: 3.3rem;
-  margin: 3rem 0rem;
-}
-
-article div {
-  margin: 8rem 0rem;
-}
-
-.title__list {
+.descuento {
   font-size: 4.8rem;
+  font-weight: 600;
 }
 
-ul {
-  margin: 3rem 0rem;
+.descuento strong {
+  font-size: 6rem;
+  font-weight: 900;
 }
 
-li {
-  margin: 1rem 2rem;
-  font-weight: 700;
-  font-size: 3.33rem;
-}
-
-.hashtag {
-  color: var(--accent-color);
-  font-family: "MuseoModerno", cursive;
-  font-size: 19.86rem;
-  font-weight: 700;
+.cta {
+  font-size: 5.86rem;
+  padding: 3rem 0rem;
 }
