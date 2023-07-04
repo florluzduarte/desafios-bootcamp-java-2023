@@ -1,3 +1,0 @@
-Hola! Soy Flor completando mi primer desafío del bootcamp
-
-Ejercicio 2: Agregar un nuevo archivo al repositorio y hacer commit
