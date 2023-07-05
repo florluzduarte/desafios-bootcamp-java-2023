@@ -17,3 +17,7 @@ Ejercicio 2 --> ¿Cómo podrías subir los cambios a producción si es la rama m
 Ejercicio 1 --> Información sobre Mendoza  
 Ejercicio 2 --> Black Friday (versión 1)  
 Ejercicio 3 --> Black Friday (versión 2)
+
+## Desafío 5 - HTML y CSS
+
+Ejercicio 1 --> Estrategia visual para social media

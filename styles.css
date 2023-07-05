@@ -6,58 +6,47 @@
 
 :root {
   font-size: 10px;
-  --primary-color: black;
-  --secondary-color: white;
-  --terciary-color: #0a2ff1;
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  --text-color: #0a2ff1;
+  --text-bkg-color: #3ffff3;
+  --image-bkg-color: #8a9af1;
 }
 
-.fecha {
-  font-weight: 900;
-  font-size: 6.6rem;
-  padding-bottom: 8rem;
-  color: var(--terciary-color);
+.main__container {
+  width: 55vw;
+  margin: 5rem;
 }
 
-.black {
-  font-size: 19.73rem;
-  color: var(--secondary-color);
-  background-color: var(--primary-color);
+.title {
+  font-size: 7.86rem;
+  color: var(--text-color);
 }
 
-.friday {
-  font-size: 21.73rem;
-  padding: 12rem 0rem;
+.title span {
+  background-color: var(--text-bkg-color);
 }
 
-.promo {
-  font-size: 4.8rem;
-  font-weight: 600;
-  color: var(--terciary-color);
-  padding-bottom: 5rem;
+.subtitle {
+  font-size: 3.06rem;
+  color: var(--text-color);
+  margin: 5rem 0rem;
 }
 
-.promo strong {
-  font-size: 6rem;
-  font-weight: 900;
-  color: var(--secondary-color);
-  background-color: var(--primary-color);
+.image {
+  width: 40rem;
+  height: auto;
 }
 
-.descuento {
-  font-weight: 900;
+.image__container {
+  position: relative;
 }
 
-.cta {
-  font-size: 5.86rem;
-  padding: 3rem 0rem;
-  color: var(--terciary-color);
-  line-height: 2rem;
-}
-
-main {
-  border-top: 4rem solid var(--terciary-color);
-  border-bottom: 10rem solid var(--terciary-color);
+.fondo {
+  position: absolute;
+  background-color: var(--image-bkg-color);
+  width: 40rem;
+  height: 12rem;
+  bottom: 0rem;
+  left: 0rem;
+  z-index: -1;
 }
