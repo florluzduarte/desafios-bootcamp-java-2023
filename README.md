@@ -20,4 +20,5 @@ Ejercicio 3 --> Black Friday (versión 2)
 
 ## Desafío 5 - HTML y CSS
 
-Ejercicio 1 --> Estrategia visual para social media
+Ejercicio 1 --> Estrategia visual para social media  
+Ejercicio 2 --> +5000 marcas confían en nosotros
