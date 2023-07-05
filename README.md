@@ -9,10 +9,11 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 
 ## Desafío 3 - GIT
 
-Ejercicio 1 --> ¿Cómo podrías pausar el trabajo en el commit actual para dedicarte a trabajar en master?
+Ejercicio 1 --> ¿Cómo podrías pausar el trabajo en el commit actual para dedicarte a trabajar en master?  
 Ejercicio 2 --> ¿Cómo podrías subir los cambios a producción si es la rama master la que se usa para producción?
 
 ## Desafío 4 - HTML y CSS
 
-Ejercicio 1 --> Información sobre Mendoza
-Ejercicio 2 --> Black Friday info
+Ejercicio 1 --> Información sobre Mendoza  
+Ejercicio 2 --> Black Friday (versión 1)  
+Ejercicio 3 --> Black Friday (versión 2)
