@@ -27,3 +27,4 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 ## Desafío 6 - Módulo 3 - HTML y CSS
 
 - Ejercicio 1 --> ¡No te olvides! Envíos a todo el país
+- Ejercicio 2 --> Buscamos formar y transformar el futuro de nuestros alumnos
