@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Mulish", sans-serif;
+  --primary-color: #04146c;
+  --secondary-color: #0a2ff1;
+  --terciary-color: #414166;
+}
+
+form {
+  width: 50rem;
+  margin: 0rem auto;
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+h1 {
+  text-align: center;
+  margin: 2rem auto;
+  font-weight: 700;
+  font-size: 2.4rem;
+}
+
+.form__element {
+  width: 50rem;
+  height: 5rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+input {
+  display: block;
+  color: var(--terciary-color);
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-size: 1.86rem;
+}
+
+button {
+  cursor: pointer;
+  font-family: "Mulish", sans-serif;
+  background-color: var(--secondary-color);
+  font-weight: 600;
+  color: #fff;
+  font-size: 2rem;
+}
+
+p {
+  text-align: center;
+  color: var(--secondary-color);
+  font-size: 1.86rem;
+  font-weight: 400;
+  margin: 1.5rem auto;
+}
