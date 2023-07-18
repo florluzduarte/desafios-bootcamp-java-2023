@@ -30,8 +30,8 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 - Ejercicio 2 --> Buscamos formar y transformar el futuro de nuestros alumnos
 - Ejercicio 3 --> Formulario de inicio de sesión
 
-### Desafío 7 | Módulo 4 - HTML y CSS
+## Desafío 7 | Módulo 4 - HTML y CSS
 
 - Ejercicio 1 --> Formulario inicio de sesión PHP
 - Ejercicio 2 --> Formulario PHP (saltear)
-- Ejercicio 3 -->
+- Ejercicio 3 --> Lettering: ¿Qué es y por dónde empezar?
