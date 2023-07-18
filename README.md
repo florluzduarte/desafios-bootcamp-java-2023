@@ -32,4 +32,6 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 
 ### Desafío 7 | Módulo 4 - HTML y CSS
 
-- Ejercicio 1 --> Formulario PHP
+- Ejercicio 1 --> Formulario inicio de sesión PHP
+- Ejercicio 2 --> Formulario PHP (saltear)
+- Ejercicio 3 -->
