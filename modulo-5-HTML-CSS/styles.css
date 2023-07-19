@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  --primary-color: #0a2ff1;
+  --secondary-color: #04146c;
+  --terciary-color: #3957f1;
+  --btn-primary-color: #2c00cc;
+  --btn-secondary-color: #f98500;
+}
+
+#logo {
+  width: 5%;
+}
+
+.nav__line {
+  height: 1.8rem;
+  background-color: var(--terciary-color);
+}
+
+.nav__link__container {
+  display: flex;
+  gap: 5rem;
+  margin: 3rem;
+}
+
+nav ul {
+  display: flex;
+  gap: 8rem;
+  align-items: center;
+}
+
+nav li {
+  list-style: none;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: var(--secondary-color);
+  font-size: 2.4rem;
+  text-transform: uppercase;
+}
+
+.nav__link:visited {
+  color: var(--secondary-color);
+}
+
+.activo {
+  font-weight: 700;
+}
+
+.title__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin: 8rem auto 4rem auto;
+}
+
+header h1 {
+  font-family: "Roboto Slab", serif;
+  color: var(--primary-color);
+  font-size: 9.6rem;
+}
+
+header h2 {
+  font-size: 3.464rem;
+  color: var(--secondary-color);
+  font-weight: 400;
+}
+
+header img {
+  width: 100%;
+  height: auto;
+}
+
+.form__container {
+  margin: 3rem;
+}
+
+.form__title {
+  font-size: 4.53rem;
+  color: var(--btn-primary-color);
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  margin: 3rem 0rem;
+}
+
+.contact__form {
+  display: flex;
+  flex-direction: column;
+  max-width: 50rem;
+}
+
+form p,
+.contact__form label {
+  font-size: 3.064rem;
+  color: var(--secondary-color);
+  margin: 1.5rem 0rem;
+}
+
+.contact__form label {
+  font-weight: 700;
+}
+
+.contact__form input {
+  height: 5rem;
+  padding: 1rem;
+  font-family: "Roboto", sans-serif;
+}
+
+.contact__form span {
+  color: red;
+}
+
+.contact__form textarea {
+  height: 10rem;
+  padding: 1rem;
+  font-family: "Roboto", sans-serif;
+}
+
+.buttons__form {
+  display: flex;
+  gap: 4rem;
+  margin-top: 3rem;
+}
+
+.buttons__form input {
+  color: #fff;
+  font-size: 3.2rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 0.8rem;
+  cursor: pointer;
+}
+
+input[type="reset"] {
+  background-color: var(--btn-secondary-color);
+}
+
+input[type="submit"] {
+  background-color: var(--btn-primary-color);
+}
+
+.services {
+  display: flex;
+  margin: 7rem 7rem 0rem 7rem;
+}
+
+.services img {
+  width: 50%;
+  height: auto;
+  align-self: flex-end;
+}
+
+.services__container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.services h2 {
+  font-size: 4.533rem;
+  font-family: "Roboto Slab", serif;
+  color: var(--primary-color);
+}
+
+.services strong {
+  font-weight: 700;
+  color: var(--secondary-color);
+  font-size: 2.4rem;
+}
+
+.services p {
+  font-weight: 400;
+  color: var(--secondary-color);
+  font-size: 2.4rem;
+}
+
+.footer__container {
+  background-color: var(--terciary-color);
+  padding: 3rem;
+}
+
+.footer__container img {
+  width: 25rem;
+  height: auto;
+  margin-left: 5rem;
+}
+
+.footer__contacto {
+  margin-top: 20.5rem;
+}
