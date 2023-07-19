@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  --primary-color: #0a2ff1;
+  --secondary-color: #04146c;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.text__container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  gap: 4rem;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 6.4rem;
+  color: var(--primary-color);
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 3.2rem;
+  color: var(--secondary-color);
+}
+
+.points__container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.points__img {
+  width: 40%;
+  height: auto;
+}
+
+p {
+  font-size: 1.6rem;
+  color: var(--secondary-color);
+  font-weight: 400;
+}
+
+p strong {
+  font-weight: 700;
+}

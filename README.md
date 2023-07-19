@@ -45,3 +45,4 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 ## Desafío 9 | Módulo 1 - Maquetador avanzado
 
 - Ejercicio 1 --> Conoce Coolorist
+- Ejercicio 2 --> Coolorist una herramienta infaltable para tu kit de Diseñadxr
