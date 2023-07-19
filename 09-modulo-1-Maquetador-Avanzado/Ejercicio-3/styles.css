@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  --primary-color: #0a2ff1;
+  --secondary-color: #04146c;
+  --accent-color: #eff2ff;
+}
+
+@font-face {
+  font-family: "Coolvetica";
+  src: url(./Typography/coolvetica-rg.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  margin: 8rem;
+}
+
+h1 {
+  color: var(--primary-color);
+  font-family: "Coolvetica", sans-serif;
+  font-weight: 400;
+  font-size: 12rem;
+  margin-bottom: 3rem;
+}
+
+header h2 {
+  font-size: 4rem;
+  font-weight: 300;
+  color: var(--secondary-color);
+}
+
+header h2 strong {
+  font-weight: 700;
+}
+
+.review__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  width: 25%;
+  padding: 2rem;
+  background-color: var(--accent-color);
+}
+
+.review__points__container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.review img {
+  width: 30%;
+}
+
+.review__author {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 2.4rem;
+  color: var(--secondary-color);
+}
+
+.review h3 {
+  font-weight: 900;
+  font-size: 2.4rem;
+  color: var(--secondary-color);
+}
+
+.review__comment__container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.review__comment {
+  font-weight: 400;
+  font-size: 2.4rem;
+  color: var(--secondary-color);
+}

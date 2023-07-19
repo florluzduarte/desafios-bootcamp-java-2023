@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Mulish", sans-serif;
+  --primary-color: #0a2ff1;
+  --secondary-color: #04146c;
+}
+
+header {
+  display: flex;
+  gap: 3rem;
+  margin: 5rem;
+}
+
+.img__container {
+  width: 50%;
+  position: relative;
+}
+
+.img__container img {
+  width: 46%;
+  height: auto;
+  position: absolute;
+  margin-left: 10rem;
+  border: 5px solid var(--primary-color);
+}
+
+.bkg__texture {
+  background-image: url("./assets/D2-E3-pattern.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 30rem;
+  position: absolute;
+  z-index: -1;
+  margin-top: 15rem;
+}
+
+.text__container {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  justify-content: space-between;
+  max-width: 50%;
+  margin-top: 5rem;
+}
+
+.text__container p {
+  font-size: 4rem;
+  font-weight: 400;
+  color: var(--primary-color);
+}
+
+.text__container h1 {
+  font-size: 8rem;
+  font-weight: 900;
+  color: var(--primary-color);
+}
+
+.text__container h2 {
+  font-size: 2.664rem;
+  font-weight: 400;
+  color: var(--secondary-color);
+}
+
+.text__container h2 strong {
+  font-weight: 700;
+}
+
+.btn__primary {
+  width: 40rem;
+  height: 7rem;
+  font-weight: 700;
+  color: #fff;
+  background-color: var(--primary-color);
+  border: none;
+  cursor: pointer;
+  font-size: 2.932rem;
+}
