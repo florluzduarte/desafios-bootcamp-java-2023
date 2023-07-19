@@ -35,3 +35,9 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 - Ejercicio 1 --> Formulario inicio de sesión PHP
 - Ejercicio 2 --> Formulario PHP (saltear)
 - Ejercicio 3 --> Lettering: ¿Qué es y por dónde empezar?
+
+## Desafío 8 | Módulo 5 - HTML y CSS
+
+- Ejercicio 1 --> Hosting Website - Hero
+- Ejercicio 2 --> Hosting Website - Contact
+- Ejercicio 3 --> Hosting Website - Services
