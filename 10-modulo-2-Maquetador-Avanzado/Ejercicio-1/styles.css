@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  --primary-color: #0a2ff1;
+  --secondary-color: #04146c;
+  --accent-color: #eff2ff;
+}
+
+@font-face {
+  font-family: "Coolvetica";
+  src: url(./Typography/coolvetica-rg.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+main {
+  margin: 5rem;
+}
+
+h1 {
+  font-family: "Coolvetica", sans-serif;
+  font-weight: 400;
+  color: var(--primary-color);
+  font-size: 12rem;
+  margin-bottom: 8rem;
+}
+
+.tools {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.tool__container {
+  width: 20%;
+  padding: 1em;
+  background-color: var(--accent-color);
+  border-radius: 0.8rem;
+}
+
+.tool__title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.tool__title h2 {
+  font-size: 3.733rem;
+  color: var(--primary-color);
+  font-weight: 900;
+}
+
+.icon {
+  width: 25%;
+}
+
+.apple__icon {
+  width: 18%;
+}
+
+.tool__description {
+  font-size: 2.4rem;
+  color: var(--secondary-color);
+  font-weight: 400;
+  text-align: center;
+}
