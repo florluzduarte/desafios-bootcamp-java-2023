@@ -46,3 +46,9 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 
 - Ejercicio 1 --> Conoce Coolorist
 - Ejercicio 2 --> Coolorist una herramienta infaltable para tu kit de Diseñadxr
+- Ejercicio 3 --> Coolorist reviews
+
+## Desafío 10 | Módulo 2 - Maquetador Avanzado
+
+- Ejercicio 1 --> ¿Cómo utilizar Coolorist?
+- Ejercicio 2 --> Hacer crecer tu negocio, creá tu tienda online
