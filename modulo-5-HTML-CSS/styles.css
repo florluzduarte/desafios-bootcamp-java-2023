@@ -148,3 +148,53 @@ input[type="reset"] {
 input[type="submit"] {
   background-color: var(--btn-primary-color);
 }
+
+.services {
+  display: flex;
+  margin: 7rem 7rem 0rem 7rem;
+}
+
+.services img {
+  width: 50%;
+  height: auto;
+  align-self: flex-end;
+}
+
+.services__container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.services h2 {
+  font-size: 4.533rem;
+  font-family: "Roboto Slab", serif;
+  color: var(--primary-color);
+}
+
+.services strong {
+  font-weight: 700;
+  color: var(--secondary-color);
+  font-size: 2.4rem;
+}
+
+.services p {
+  font-weight: 400;
+  color: var(--secondary-color);
+  font-size: 2.4rem;
+}
+
+.footer__container {
+  background-color: var(--terciary-color);
+  padding: 3rem;
+}
+
+.footer__container img {
+  width: 25rem;
+  height: auto;
+  margin-left: 5rem;
+}
+
+.footer__contacto {
+  margin-top: 20.5rem;
+}
