@@ -41,3 +41,7 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 - Ejercicio 1 --> Hosting Website - Hero
 - Ejercicio 2 --> Hosting Website - Contact
 - Ejercicio 3 --> Hosting Website - Services
+
+## Desafío 9 | Módulo 1 - Maquetador avanzado
+
+- Ejercicio 1 --> Conoce Coolorist
