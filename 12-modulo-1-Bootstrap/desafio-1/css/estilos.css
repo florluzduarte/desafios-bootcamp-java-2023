@@ -52,7 +52,7 @@ h2 {
   height: auto;
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 768px) {
   main {
     margin: 4%;
   }
@@ -66,7 +66,7 @@ h2 {
   }
 }
 
-@media screen and (min-width: 993px) {
+@media screen and (min-width: 992px) {
   main {
     margin: 5%;
   }
