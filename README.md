@@ -52,3 +52,23 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 
 - Ejercicio 1 --> ¿Cómo utilizar Coolorist?
 - Ejercicio 2 --> Hacer crecer tu negocio, creá tu tienda online
+
+## Desafío 11 | Módulo 8 - Maquetador Avanzado
+
+- Ejercicio 1 --> Portfolio (Hover Effect)
+- Ejercicio 2 --> ¿Quiénes somos? (Animación)
+
+## Desafío 12 | Módulo 1 - Responsive Web & Bootstrap
+
+- Ejercicio 1 --> Somos 100% digitales
+- Ejercicio 2 --> Por qué elegirnos
+
+## Desafío 13 | Módulo 2 - Responsive Web & Bootstrap
+
+- Ejercicio 1 --> Nuestro team
+- Ejercicio 2 --> Todo lo que tu marca necesita para romperla en redes
+
+## Desafío 14 | Módulo 3 - Responsive Web & Bootstrap
+
+- Ejercicio 1 --> Formulario Login
+- Ejercicio 2 --> Un caño
