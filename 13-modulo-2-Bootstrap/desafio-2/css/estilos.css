@@ -1,0 +1,31 @@
+:root {
+  --bs-body-font-family: "Mulish", sans-serif;
+  --text-color: #04146c;
+  --accent-color: #0a2ff1;
+}
+
+h1 {
+  font-size: 49.33px;
+  color: var(--text-color);
+}
+
+p {
+  color: var(--text-color);
+  font-size: 24px;
+}
+
+p strong {
+  color: var(--accent-color);
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 768px) {
+  img {
+    width: 80%;
+    height: auto;
+  }
+}
