@@ -1,0 +1,33 @@
+:root {
+  --bs-body-font-family: "Mulish", sans-serif;
+  --text-color: #04146c;
+  --name-color: #0a2ff1;
+}
+
+h1 {
+  /* font-weight: 700; */
+  color: var(--text-color);
+  font-size: 65.3px;
+}
+
+h2 {
+  /* font-weight: 700; */
+  color: var(--name-color);
+  font-size: 40px;
+}
+
+p {
+  color: var(--text-color);
+  font-size: 24px;
+}
+
+a {
+  color: var(--text-color) !important;
+  font-size: 24px !important;
+  border: 2px solid var(--name-color) !important;
+  border-radius: 0 !important;
+}
+
+img {
+  max-width: 60% !important;
+}
