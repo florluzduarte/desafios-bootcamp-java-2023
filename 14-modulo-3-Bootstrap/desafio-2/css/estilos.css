@@ -1,0 +1,39 @@
+:root {
+  --bs-body-font-family: "Source Sans 3", sans-serif;
+  --text-color: #04146c;
+}
+
+h1 {
+  color: var(--text-color);
+  font-size: 5.166rem;
+}
+
+p {
+  color: var(--text-color);
+  font-size: 1.333rem;
+}
+
+button {
+  background-color: var(--text-color) !important;
+  font-size: 1.166rem !important;
+  min-width: 9.375rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 362px) {
+  .button__2 {
+    margin-top: 0.8rem;
+    margin-right: 0.5rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  img {
+    width: 80%;
+    height: auto;
+  }
+}
