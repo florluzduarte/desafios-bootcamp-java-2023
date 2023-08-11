@@ -72,3 +72,13 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 
 - Ejercicio 1 --> Formulario Login
 - Ejercicio 2 --> Un caño
+
+## Desafío 15 | Módulo 1 - JavaScript desde cero
+
+- Ejercicio 1 --> Calculadora punto de equilibrio
+- Ejercicio 2 --> Calculadora de gastos personales
+
+## Desafío 16 | Módulo 2 - JavaScript desde cero
+
+- Ejercicio 1 --> Login mayores de 18 años
+- Ejercicio 2 --> Login usuario y contraseña
