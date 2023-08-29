@@ -82,3 +82,17 @@ En este repositorio se puede encontrar el fork del repo original: https://github
 
 - Ejercicio 1 --> Login mayores de 18 años
 - Ejercicio 2 --> Login usuario y contraseña
+
+## Desafío 17 | Módulo 3 - JavaScript desde cero
+
+- Ejercicio 1 --> Calculadora de Flujo de caja
+- Ejercicio 2 --> Calculadora de interés para créditos bancarios
+
+## Desafío 18 | Módulo 4 - JavaScript desde cero
+
+- Ejercicio 1 --> Refactor de los dos ejercicios del módulo 3 para mejor funcionamiento y accesibilidad
+
+## Integrador - Nivel 1 - Web Institucional
+
+- Repositorio del desafío --> [Repo](https://github.com/florluzduarte/integrador-nivel-1-bootcamp-java)
+- Link al Deploy --> [Website](https://florluzduarte.github.io/integrador-nivel-1-bootcamp-java/)
